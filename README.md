@@ -5,6 +5,8 @@
 </div>
 
 <img align="center" alt="" src="./src/header-gif.gif">
+<img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Gato Pixel">
+
 
 #
 
